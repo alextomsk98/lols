@@ -1,0 +1,7 @@
+C:\Users\aashavlo\Documents\GitHub\lols\lols\lols\bin\Debug\lols.exe.config
+C:\Users\aashavlo\Documents\GitHub\lols\lols\lols\bin\Debug\lols.exe
+C:\Users\aashavlo\Documents\GitHub\lols\lols\lols\bin\Debug\lols.pdb
+C:\Users\aashavlo\Documents\GitHub\lols\lols\lols\obj\Debug\lols.csprojResolveAssemblyReference.cache
+C:\Users\aashavlo\Documents\GitHub\lols\lols\lols\obj\Debug\lols.csproj.CoreCompileInputs.cache
+C:\Users\aashavlo\Documents\GitHub\lols\lols\lols\obj\Debug\lols.exe
+C:\Users\aashavlo\Documents\GitHub\lols\lols\lols\obj\Debug\lols.pdb
